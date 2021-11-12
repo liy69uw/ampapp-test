@@ -22,6 +22,14 @@ function App() {
         </a>
         <a
           className="App-link"
+          href="https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Update changes on AWS
+        </a>
+        <a
+          className="App-link"
           href="https://www.linkedin.com/in/yiyang-annie-li/"
           rel="noopener noreferrer"
         >
